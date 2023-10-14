@@ -5,5 +5,5 @@
 
 
 import os
-import AB
+import (AB)
 AB.loging()
